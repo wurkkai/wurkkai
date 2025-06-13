@@ -1,11 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My Cool Website</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wurkkai — Build Your Future</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Welcome to my website!</h1>
-  <p>This is my first page. Don't judge.</p>
+  <header>
+    <h1>Welcome to Wurkkai</h1>
+    <p>Where resumes swipe, scams die, and dreams thrive.</p>
+  </header>
+
+  <main>
+    <!-- We'll add your actual dashboard, job board, etc. here -->
+  </main>
+
+  <footer>
+    <p>© 2025 Wurkkai. All rights reserved. CEO bitch in charge.</p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
