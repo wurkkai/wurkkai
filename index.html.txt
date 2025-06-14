@@ -3,23 +3,23 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Wurkkai — Build Your Future</title>
+  <title>Wurkkai</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <h1>Welcome to Wurkkai</h1>
-    <p>Where resumes swipe, scams die, and dreams thrive.</p>
-  </header>
-
-  <main>
-    <!-- We'll add your actual dashboard, job board, etc. here -->
-  </main>
-
-  <footer>
-    <p>© 2025 Wurkkai. All rights reserved. CEO bitch in charge.</p>
-  </footer>
-
-  <script src="script.js"></script>
+  <div class="sidebar">
+    <h1 class="logo">Wurkkai</h1>
+    <ul class="nav">
+      <li>🏠 Home</li>
+      <li>💼 Job Board</li>
+      <li>📄 Resume Builder</li>
+      <li>🔥 Employer Swipe</li>
+      <li>🚀 Start-Up Assistant</li>
+    </ul>
+  </div>
+  <div class="main-content">
+    <h2>Welcome, dream chaser 🦋</h2>
+    <p>Pick a section from the sidebar to get started.</p>
+  </div>
 </body>
 </html>
